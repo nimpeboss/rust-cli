@@ -1,0 +1,1 @@
+/home/nimpe/projects/rust-cli/target/debug/forge: /home/nimpe/projects/rust-cli/src/cli.rs /home/nimpe/projects/rust-cli/src/commands/hash.rs /home/nimpe/projects/rust-cli/src/commands/mod.rs /home/nimpe/projects/rust-cli/src/commands/scan.rs /home/nimpe/projects/rust-cli/src/config.rs /home/nimpe/projects/rust-cli/src/main.rs /home/nimpe/projects/rust-cli/src/utils.rs

@@ -1,0 +1,12 @@
+/home/nimpe/projects/rust-cli/target/debug/deps/tracing-950f60c952e5e333.d: /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/lib.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/macros.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/dispatcher.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/field.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/instrument.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/level_filters.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/span.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/subscriber.rs
+
+/home/nimpe/projects/rust-cli/target/debug/deps/libtracing-950f60c952e5e333.rmeta: /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/lib.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/macros.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/dispatcher.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/field.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/instrument.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/level_filters.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/span.rs /home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/subscriber.rs
+
+/home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/lib.rs:
+/home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/macros.rs:
+/home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/dispatcher.rs:
+/home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/field.rs:
+/home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/instrument.rs:
+/home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/level_filters.rs:
+/home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/span.rs:
+/home/nimpe/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.43/src/subscriber.rs:
